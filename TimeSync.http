@@ -1,0 +1,6 @@
+@TimeSync_HostAddress = http://localhost:5222
+
+GET {{TimeSync_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
